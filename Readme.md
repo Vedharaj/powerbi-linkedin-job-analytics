@@ -14,7 +14,7 @@ This Power BI dashboard analyzes **6,528 job postings** collected from LinkedIn 
 - List of high-paying skills such as Product Management, Research, Science, Legal, and Healthcare.
 
 ## 📷 Screenshot
-![Dashboard Preview](Screenshots/preview1.png)
+![Dashboard Preview](screenshots/preview1.png)
 
 ## 🔧 Tools Used
 - Power BI Desktop
